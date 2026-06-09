@@ -31,3 +31,9 @@ The project focuses on clean design, intuitive navigation, and modular architect
 1. Clone the repository:  
    ```bash
    git clone https://github.com/omxfinity/Android-BusTicketBooking-UI.git
+
+---
+## 🏫 Credits
+Developed by **Om Shankar Singh**
+
+![Certificate](Android_Development_certificate.jpeg)
